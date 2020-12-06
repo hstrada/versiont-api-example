@@ -14,10 +14,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Versiont.WebApi/Controllers/Weather/WeatherForecastController.cs" />
-        <option value="$PROJECT_DIR$/Versiont.WebApi/Controllers/Weather/v1/WeatherForecastController.cs" />
         <option value="$PROJECT_DIR$/Versiont.WebApi/Controllers/Weather/v2/A.cs" />
-        <option value="$PROJECT_DIR$/Versiont.WebApi/Controllers/Weather/v2/WeatherForecastController.cs" />
+        <option value="$PROJECT_DIR$/Versiont.WebApi/Configuration/SwaggerOptions.cs" />
         <option value="$PROJECT_DIR$/Versiont.WebApi/Startup.cs" />
+        <option value="$PROJECT_DIR$/Versiont.WebApi/Controllers/Weather/v1/WeatherForecastController.cs" />
+        <option value="$PROJECT_DIR$/Versiont.WebApi/Controllers/Weather/v2/WeatherForecastController.cs" />
+        <option value="$PROJECT_DIR$/Versiont.WebApi/Configuration/ConfigSwaggerOptions.cs" />
       </list>
     </option>
   </component>
@@ -73,7 +75,7 @@
       <updated>1606433698732</updated>
       <workItem from="1606433702888" duration="8000" />
       <workItem from="1606862435679" duration="4779000" />
-      <workItem from="1607184069995" duration="1605000" />
+      <workItem from="1607184069995" duration="3112000" />
     </task>
     <servers />
   </component>
@@ -90,22 +92,22 @@
       <screen x="44" y="27" width="1876" height="1053" />
     </state>
     <state x="760" y="314" width="424" height="491" key="FileChooserDialogImpl/44.27.1876.1053@44.27.1876.1053" timestamp="1606862611774" />
-    <state width="892" height="275" key="GridCell.Tab.0.bottom" timestamp="1607185727862">
+    <state width="892" height="275" key="GridCell.Tab.0.bottom" timestamp="1607187490857">
       <screen x="44" y="27" width="1876" height="1053" />
     </state>
-    <state width="892" height="275" key="GridCell.Tab.0.bottom/44.27.1876.1053@44.27.1876.1053" timestamp="1607185727862" />
-    <state width="892" height="275" key="GridCell.Tab.0.center" timestamp="1607185727861">
+    <state width="892" height="275" key="GridCell.Tab.0.bottom/44.27.1876.1053@44.27.1876.1053" timestamp="1607187490857" />
+    <state width="892" height="275" key="GridCell.Tab.0.center" timestamp="1607187490856">
       <screen x="44" y="27" width="1876" height="1053" />
     </state>
-    <state width="892" height="275" key="GridCell.Tab.0.center/44.27.1876.1053@44.27.1876.1053" timestamp="1607185727861" />
-    <state width="892" height="275" key="GridCell.Tab.0.left" timestamp="1607185727860">
+    <state width="892" height="275" key="GridCell.Tab.0.center/44.27.1876.1053@44.27.1876.1053" timestamp="1607187490856" />
+    <state width="892" height="275" key="GridCell.Tab.0.left" timestamp="1607187490855">
       <screen x="44" y="27" width="1876" height="1053" />
     </state>
-    <state width="892" height="275" key="GridCell.Tab.0.left/44.27.1876.1053@44.27.1876.1053" timestamp="1607185727860" />
-    <state width="892" height="275" key="GridCell.Tab.0.right" timestamp="1607185727861">
+    <state width="892" height="275" key="GridCell.Tab.0.left/44.27.1876.1053@44.27.1876.1053" timestamp="1607187490855" />
+    <state width="892" height="275" key="GridCell.Tab.0.right" timestamp="1607187490856">
       <screen x="44" y="27" width="1876" height="1053" />
     </state>
-    <state width="892" height="275" key="GridCell.Tab.0.right/44.27.1876.1053@44.27.1876.1053" timestamp="1607185727861" />
+    <state width="892" height="275" key="GridCell.Tab.0.right/44.27.1876.1053@44.27.1876.1053" timestamp="1607187490856" />
     <state x="577" y="288" width="800" height="537" key="Rider.ProjectTemplateDialog.Size" timestamp="1606863370364">
       <screen x="44" y="27" width="1876" height="1053" />
     </state>

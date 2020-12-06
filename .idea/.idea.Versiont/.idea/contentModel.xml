@@ -5,6 +5,9 @@
     <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_Versiont.-675170974.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="Versiont.WebApi" t="IncludeRecursive">
+        <e p="Configuration" t="Include">
+          <e p="ConfigSwaggerOptions.cs" t="Include" />
+        </e>
         <e p="Controllers" t="Include">
           <e p="Weather" t="Include">
             <e p="v1" t="Include">
