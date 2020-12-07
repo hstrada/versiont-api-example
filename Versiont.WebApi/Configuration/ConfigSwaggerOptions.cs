@@ -29,7 +29,7 @@ namespace Versiont.WebApi.Configuration
             {
                 Title = "API Versioning and Swagger",
                 Version = description.ApiVersion.ToString(),
-                Description = "ApiVersioningSwagger",
+                Description = "Versiont Api Controller",
                 Contact = new OpenApiContact()
                 {
                     Name = "Helena Strada",

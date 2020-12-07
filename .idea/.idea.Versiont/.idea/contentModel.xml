@@ -9,12 +9,12 @@
           <e p="ConfigSwaggerOptions.cs" t="Include" />
         </e>
         <e p="Controllers" t="Include">
-          <e p="Weather" t="Include">
+          <e p="Version" t="Include">
             <e p="v1" t="Include">
-              <e p="WeatherForecastController.cs" t="Include" />
+              <e p="VersionController.cs" t="Include" />
             </e>
             <e p="v2" t="Include">
-              <e p="WeatherForecastController.cs" t="Include" />
+              <e p="VersionController.cs" t="Include" />
             </e>
           </e>
         </e>
