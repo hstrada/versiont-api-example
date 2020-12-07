@@ -2,10 +2,7 @@
 
 <p align="center">
  versiont
-  <p align="center">
-  Backend software to show how to version rest api controllers.
-  </p>
-  
+ 
 </p>
 
 # Index
