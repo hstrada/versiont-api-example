@@ -12,9 +12,8 @@
 
 - :rocket: [Project Summary](#rocket-project-summary)
 - 👨‍💻️ [Technologies Used](#%EF%B8%8F-technologies-used)
-- 📦️ [How to install the project](#%EF%B8%8F-how-to-install-the-project)
+- 📦️ [How to run the project](#%EF%B8%8F-how-to-run-the-project)
 - 🤔️ [How can you contribute?](#%EF%B8%8F-how-can-you-contribute)
-- [Tasks](#tasks)
  
 ## :rocket: Project Summary
 
