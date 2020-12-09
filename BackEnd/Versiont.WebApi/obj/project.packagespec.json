@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/hroad/Documents/_git/versiont-api-example/Versiont.WebApi/Versiont.WebApi.csproj",
+    "projectUniqueName": "/home/hroad/Documents/_git/versiont-api-example/BackEnd/Versiont.WebApi/Versiont.WebApi.csproj",
     "projectName": "Versiont.WebApi",
-    "projectPath": "/home/hroad/Documents/_git/versiont-api-example/Versiont.WebApi/Versiont.WebApi.csproj",
-    "outputPath": "/home/hroad/Documents/_git/versiont-api-example/Versiont.WebApi/obj/",
+    "projectPath": "/home/hroad/Documents/_git/versiont-api-example/BackEnd/Versiont.WebApi/Versiont.WebApi.csproj",
+    "outputPath": "/home/hroad/Documents/_git/versiont-api-example/BackEnd/Versiont.WebApi/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net50"

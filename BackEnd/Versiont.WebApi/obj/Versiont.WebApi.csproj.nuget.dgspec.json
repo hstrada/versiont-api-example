@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hroad/Documents/_git/versiont-api-example/Versiont.WebApi/Versiont.WebApi.csproj": {}
+    "/home/hroad/Documents/_git/versiont-api-example/BackEnd/Versiont.WebApi/Versiont.WebApi.csproj": {}
   },
   "projects": {
-    "/home/hroad/Documents/_git/versiont-api-example/Versiont.WebApi/Versiont.WebApi.csproj": {
+    "/home/hroad/Documents/_git/versiont-api-example/BackEnd/Versiont.WebApi/Versiont.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hroad/Documents/_git/versiont-api-example/Versiont.WebApi/Versiont.WebApi.csproj",
+        "projectUniqueName": "/home/hroad/Documents/_git/versiont-api-example/BackEnd/Versiont.WebApi/Versiont.WebApi.csproj",
         "projectName": "Versiont.WebApi",
-        "projectPath": "/home/hroad/Documents/_git/versiont-api-example/Versiont.WebApi/Versiont.WebApi.csproj",
+        "projectPath": "/home/hroad/Documents/_git/versiont-api-example/BackEnd/Versiont.WebApi/Versiont.WebApi.csproj",
         "packagesPath": "/home/hroad/.nuget/packages/",
-        "outputPath": "/home/hroad/Documents/_git/versiont-api-example/Versiont.WebApi/obj/",
+        "outputPath": "/home/hroad/Documents/_git/versiont-api-example/BackEnd/Versiont.WebApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hroad/.nuget/NuGet/NuGet.Config"
