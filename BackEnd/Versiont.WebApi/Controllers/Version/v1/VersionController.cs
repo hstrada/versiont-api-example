@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace Versiont.WebApi.Controllers.Version.v1
 {
@@ -12,6 +8,11 @@ namespace Versiont.WebApi.Controllers.Version.v1
     public class VersionController : ControllerBase
     {
         [HttpGet]
-        public string Get() => "v1";
+        public IActionResult Get()
+        {
+            var jsonResult = new {Name = "Helena", Message = "Hello"};
+
+            return Ok(jsonResult);
+        }
     }
 }

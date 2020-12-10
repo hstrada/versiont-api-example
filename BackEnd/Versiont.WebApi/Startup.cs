@@ -32,7 +32,8 @@ namespace Versiont.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers();
+            services.AddControllers()
+                .AddJsonOptions(options => options.JsonSerializerOptions.WriteIndented = true);
             // services.AddSwaggerGen(c =>
             // {
             //     c.SwaggerDoc("v1", new OpenApiInfo {Title = "Versiont.WebApi", Version = "v1"});
@@ -46,6 +47,14 @@ namespace Versiont.WebApi
                 config.ReportApiVersions = true;
                 config.AssumeDefaultVersionWhenUnspecified = true;
                 config.ApiVersionReader = new HeaderApiVersionReader("api-version");
+            });
+           
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader());
             });
             
             services.AddVersionedApiExplorer(p =>
@@ -63,6 +72,7 @@ namespace Versiont.WebApi
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env, IApiVersionDescriptionProvider provider)
         {
+            
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -79,9 +89,10 @@ namespace Versiont.WebApi
                     options.DocExpansion(DocExpansion.List);
                 });
             }
-            
 
             app.UseHttpsRedirection();
+            
+            app.UseCors("CorsPolicy");
 
             app.UseRouting();
 

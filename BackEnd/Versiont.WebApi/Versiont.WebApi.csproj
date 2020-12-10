@@ -15,21 +15,25 @@
     <ItemGroup>
       <Compile Remove="Controllers\v2\**" />
       <Compile Remove="Controllers\v1\**" />
+      <Compile Remove="Models\**" />
     </ItemGroup>
 
     <ItemGroup>
       <EmbeddedResource Remove="Controllers\v2\**" />
       <EmbeddedResource Remove="Controllers\v1\**" />
+      <EmbeddedResource Remove="Models\**" />
     </ItemGroup>
 
     <ItemGroup>
       <None Remove="Controllers\v2\**" />
       <None Remove="Controllers\v1\**" />
+      <None Remove="Models\**" />
     </ItemGroup>
 
     <ItemGroup>
       <Content Remove="Controllers\v2\**" />
       <Content Remove="Controllers\v1\**" />
+      <Content Remove="Models\**" />
     </ItemGroup>
 
 </Project>

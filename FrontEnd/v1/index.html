@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>v1</title>
+  </head>
+  <body>
+    <main id="main"></main>
+
+    <script>
+      let main = document.getElementById("main");
+
+      let userName = document.createElement("h1");
+      let userMessage = document.createElement("p");
+
+      const API_URL = "https://localhost:5001/version";
+
+      fetch(API_URL, {
+        method: "get",
+      })
+        .then((res) => res.json())
+        .then((data) => {
+          userName.innerText += data.name;
+          userMessage.innerText += data.message;
+          main.appendChild(userName);
+          main.appendChild(userMessage);
+        })
+        .catch((error) => console.log(error));
+    </script>
+  </body>
+</html>

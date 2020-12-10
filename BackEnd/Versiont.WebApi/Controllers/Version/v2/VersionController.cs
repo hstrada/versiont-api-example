@@ -12,6 +12,19 @@ namespace Versiont.WebApi.Controllers.Version.v2
     public class VersionController : ControllerBase
     {
         [HttpGet]
-        public string Get() => "v2";
+        public IActionResult Get()
+        {
+            var jsonResult = new
+            {
+                Name = "Helena",
+                Message = new
+                {
+                    Title = "Hello",
+                    SubTitle = "World"
+                }
+            };
+
+            return Ok(jsonResult);
+        }
     }
 }
