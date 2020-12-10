@@ -22,14 +22,84 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8ef8a10-eb22-40f9-9cb6-3282ca0a9e37" name="Default Changelist" comment="" />
+    <list default="true" id="f8ef8a10-eb22-40f9-9cb6-3282ca0a9e37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Versiont/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Versiont/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Versiont/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Versiont/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Versiont/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Versiont/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Versiont/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Versiont/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Versiont/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/Configuration/ConfigSwaggerOptions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/Controllers/Version/v1/VersionController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/Controllers/Version/v2/VersionController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/Versiont.WebApi.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/WeatherForecast.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Versioning.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Microsoft.OpenApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Versiont.WebApi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Versiont.WebApi.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Versiont.WebApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Versiont.WebApi.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Versiont.WebApi.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/Versiont.WebApi.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/bin/Debug/net5.0/ref/Versiont.WebApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/Versiont.WebApi.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/Versiont.WebApi.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/Versiont.WebApi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/Versiont.WebApi.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/Versiont.WebApi.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/Versiont.WebApi.RazorTargetAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/Versiont.WebApi.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/Versiont.WebApi.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/Versiont.WebApi.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/Versiont.WebApi.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/Versiont.WebApi.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/Versiont.WebApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/Versiont.WebApi.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/Versiont.WebApi.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/ref/Versiont.WebApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/staticwebassets/Versiont.WebApi.StaticWebAssets.Manifest.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Debug/net5.0/staticwebassets/Versiont.WebApi.StaticWebAssets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Versiont.WebApi.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Versiont.WebApi.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/Versiont.WebApi.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.WebApi/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versiont.sln" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E1EED6D8-3E64-47B8-A7C6-9D31AC12C8FC/6a/81ac160e/IApiVersionDescriptionProvider.cs" root0="SKIP_HIGHLIGHTING" />
@@ -104,6 +174,7 @@
       <workItem from="1606862435679" duration="4779000" />
       <workItem from="1607184069995" duration="4642000" />
       <workItem from="1607382557060" duration="932000" />
+      <workItem from="1607471632069" duration="659000" />
     </task>
     <task id="LOCAL-00001" summary="feat: change controllers name">
       <created>1607382970069</created>
@@ -130,6 +201,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
