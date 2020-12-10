@@ -43,7 +43,10 @@ To clone the project, use the commands bellow:
   ❯ git clone https://github.com/hstrada/versiont-api-example.git
 
   # Enter directory
-  ❯ cd versiont-api-example
+  ❯ cd versiont-api-example/BackEnd/Versiont.WebApi
+  
+  # Run the project
+  ❯ dotnet run
 ```
 
 ---
